@@ -62,7 +62,8 @@
 <p><span style="color: #ff0000;"><b>影片:</b></span></p>
 <p><span style="color: #ff0000;"><b><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/dYmrncwPiYU" width="560"></iframe></b></span></p>
 <h1>Webots tutorial</h1>
-<h2>Webots入門</h2><h3>The Scene Tree(場景樹)</h3>
+<h2>Webots入門</h2>
+<h3>The Scene Tree(場景樹)</h3>
 <p><span>如上一節所述，要訪問“場景樹窗口”，可以</span><code>Scene Tree</code><span>在</span><code>Tools</code><span>菜單中選擇，也可以按</span><code>Show Scene Tree</code><span>主工具欄中的按鈕。場景樹包含描述模擬世界（包括機器人和環境）及其圖形表示的信息。Webots的場景樹的結構類似於VRML97文件。它由節點列表組成，每個節點包含字段。字段可以包含值（文本字符串，數字值）或其他節點。</span></p>
 <p><span><span>本節描述了“場景樹”的用戶界面，並概述了VRML97節點和Webots節點。</span></span></p>
 <figure name="scene-tree-window"><img alt="scene_tree1.png" src="https://raw.githubusercontent.com/cyberbotics/webots/master/docs/guide/images/scene_tree1.thumbnail.jpg"/>
@@ -70,7 +71,7 @@
 </figure>
 <p><span><span>場景樹具有上下文菜單，該上下文菜單包含許多有用的操作，具體取決於選擇，包括但不限於：剪切，複製和粘貼操作，將字段重置為其默認值，將</span></span><a href="https://cyberbotics.com/doc/reference/viewpoint"><span><span>視點</span></span></a><span><span>移至對象，設置</span></span><a href="https://cyberbotics.com/doc/reference/viewpoint"><span><span>視點</span></span></a><span><span>跟隨對象，或打開文檔查看器以查看所選節點的文檔。</span></span></p>
 <p><span><span>此外，如果當前選擇是</span></span><a href="https://cyberbotics.com/doc/reference/robot"><span><span>Robot</span></span></a><span><span>節點（或後代，或</span></span><code>PROTO</code><span><span>基於</span></span><a href="https://cyberbotics.com/doc/reference/robot"><span><span>Robot的</span></span></a><span><span>實例</span><span>），則可以在文本編輯器中打開相應的機器人窗口或打開機器人的控制器。</span></span></p>
-<br/><a class="anchor-link" href="https://cyberbotics.com/doc/guide/the-scene-tree#field-editor"><span class="anchor-link-image"></span></a><span><span>現場編輯</span></span>
+<p><br/><a class="anchor-link" href="https://cyberbotics.com/doc/guide/the-scene-tree#field-editor"><span class="anchor-link-image"></span></a><span><span>現場編輯</span></span></p>
 <p><span><span>可以雙擊擴展節點。</span><span>選擇字段後，可以在“場景樹”的底部編輯其值。</span><span>雙擊或按</span></span><code>Enter</code><span><span>字段上</span><span>的</span><span>鍵將選擇字段編輯器面板的第一個可編輯項目。</span><span>可以通過在字段編輯器面板中的所有項目之間切換來將鍵盤焦點返回到“場景樹”。</span><span>對於文本字段，通過按鍵應用更改</span></span><code>Enter</code><span><span>。</span><span>這對於數字字段是相同的，但是向上和向下箭頭鍵也可以用於向上和向下調整值，並立即應用更改。</span><span>對於復選框，使用</span></span><code>Space</code><span><span>欄</span><span>更改值</span><span>。</span><span>應用的更改將立即反映在3D窗口中。</span><span>字段編輯器部分提供以下按鈕：</span></span></p>
 <figure name="webots-node-editor"><img alt="field_editor.png" src="https://raw.githubusercontent.com/cyberbotics/webots/master/docs/guide/images/field_editor.png"/>
 <figcaption class="anchor-header"><a class="anchor-link" href="https://cyberbotics.com/doc/guide/the-scene-tree#webots-node-editor"><span class="anchor-link-image"></span></a><span><span>Webots節點編輯器</span></span></figcaption>
@@ -79,7 +80,8 @@
 <li>
 <p><strong><span><span>顯示調整大小手柄</span></span></strong><span><span>：顯示用於調整大小和縮放3D窗口中選定節點的手柄。</span><span>僅對“幾何”節點和“<span> </span></span></span><a href="https://cyberbotics.com/doc/reference/transform"><span><span>變換”</span></span></a><span><span>節點</span><span>派生的節點顯示此選項</span><span>。</span><span>對於過程性PROTO節點，僅當在模板語句中未使用調整大小或縮放所涉及的字段時才可用。</span></span></p>
 </li>
-</ul><h3>Preferences(首選項)</h3>
+</ul>
+<h3>Preferences(首選項)</h3>
 <p><span>可以通過對話框修改Webots首選項，該對話框可以從</span><code>Webots / Preferences</code><span>Mac上的菜單項打開，也可以從</span><code>Tools / Preferences</code><span>其他操作系統上的菜單項打開。</span></p>
 <p><span><span>該對話框分為多個選項卡。</span><span>以下每個小節對應於這些選項卡之一。</span></span></p>
 <p>指數</p>
@@ -137,7 +139,8 @@
 <p><span><span>該</span></span><strong><span><span>代理密碼</span></span></strong><span><span>字段是可選的，以及，並允許您指定發送到代理服務器的用戶密碼。</span></span></p>
 </li>
 </ul>
-<p><span><span>更改代理配置後，建議重新啟動Webot，以確保正確考慮了更改。</span><span>如果清除“<span> </span></span></span><strong><span><span>代理主機名”</span></span></strong><span><span>字段，Webots將在下次啟動時嘗試檢索默認的系統代理。</span></span></p><h1>直播會議討論</h1>
+<p><span><span>更改代理配置後，建議重新啟動Webot，以確保正確考慮了更改。</span><span>如果清除“<span> </span></span></span><strong><span><span>代理主機名”</span></span></strong><span><span>字段，Webots將在下次啟動時嘗試檢索默認的系統代理。</span></span></p>
+<h1>直播會議討論</h1>
 <h2>w2</h2>
 <p><span style="color: #000080;"><strong>1.分配小組工作內容</strong></span></p>
 <p><span style="color: #000080;"><strong>2.問題討論</strong></span></p>
@@ -157,3 +160,7 @@
 <p><strong>開會內容</strong></p>
 <p>1.webots tutorial分配到的趕快完成<br/>2.每個人都須安裝OBS,之後拍影片右下角要有自己的頭像<br/>3.請大家這段時間自行學習Coppeliasim,之後要用這套軟體模擬<br/>4.請安裝pyslvs,並且學習這套軟體,之後要在四輪車上加上提球機構<br/>,需要彼此討論機構設計,去進行模擬<br/>5.TOP0及TOP1的文章,記得有時間可以去看一下<br/>6.Handout meet線上上課說明</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/B6jt5OAf424" width="560"></iframe></p>
+<h2>w7</h2>
+<p>說明線上課程如何實施</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/96y-KSUWDyE" width="560"></iframe></p>
+<p></p>
