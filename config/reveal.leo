@@ -340,13 +340,10 @@
 						
 </t>
 <t tx="leo.20180902120523.19"># Webots tutorial
-
-The Scene Tree :
+The Scene Tree
 ##### https://s40723107.github.io/cd2020/content/The%20Scene%20Tree(%E5%A0%B4%E6%99%AF%E6%A8%B9).html
-
 Preferences :
-###### https://s40723107.github.io/cd2020/content/Preferences(%E9%A6%96%E9%81%B8%E9%A0%85).html
-</t>
+###### https://s40723107.github.io/cd2020/content/Preferences(%E9%A6%96%E9%81%B8%E9%A0%85).html</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
