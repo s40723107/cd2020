@@ -21,8 +21,33 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>Assignment1</vh>
-<v t="leo.20180902120523.12"><vh>Assignment1</vh></v>
+<v t=".20200630153027.1"><vh>Assignment1</vh>
+<v t=".20200630153027.2"><vh>Assignment2</vh>
+<v t=".20200630153027.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t=".20200630153027.4"><vh>導入縮排程式碼</vh>
+<v t=".20200630153027.5"><vh>引用程式碼</vh></v>
+</v>
+<v t=".20200630153027.6"><vh>導入影片</vh>
+<v t=".20200630153027.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t=".20200630153333.1"><vh>導入影片</vh>
+<v t=".20200630153333.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t=".20200630153336.1"><vh>導入影片</vh>
+<v t=".20200630153336.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t=".20200630154022.1"><vh>Assignment1</vh>
+<v t=".20200630154022.2"><vh>Assignment2</vh>
+<v t=".20200630154022.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t=".20200630154022.4"><vh>導入縮排程式碼</vh>
+<v t=".20200630154022.5"><vh>引用程式碼</vh></v>
+</v>
+<v t=".20200630154022.6"><vh>導入影片</vh>
+<v t=".20200630154022.7"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 <v t="leo.20180902120523.13"><vh>Assignment1</vh>
 <v t="leo.20180902120523.14"><vh>Assignment2</vh>
@@ -58,6 +83,130 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20200630153027.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx=".20200630153027.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630153027.3"># week
+</t>
+<t tx=".20200630153027.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630153027.5"># week1-5
+* 進行亂數分組
+* 建立個人倉儲cd2020及進行網站編譯
+* 重新創建python3.8.2隨身系統 創建分組倉儲
+* 以直播分配Assingment1作業</t>
+<t tx=".20200630153027.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630153027.7"># week6-9
+* 以直播分配Assignment2作業
+* 四輪車的基本外型設置與以鍵盤控制四輪車
+* Python remote api 環境配置
+
+</t>
+<t tx=".20200630153333.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630153333.2"># week10-14
+* 以直播分配Assignment3作業
+* gm用戶登入設置
+* Ubuntu設定及API連線
+* 以ssh對Github連線
+* Ubuntu對外連線設定
+* mini project抽點
+</t>
+<t tx=".20200630153336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630153336.2"># week15-18
+* mini project分組抽點
+* IPv6對外連線個人網站
+* 完成期末報告
+</t>
+<t tx=".20200630154022.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx=".20200630154022.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630154022.3"># Assignment1</t>
+<t tx=".20200630154022.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630154022.5">* Random grouping 亂數分組
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dYmrncwPiYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx=".20200630154022.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630154022.7">* 更新Python3.8.2
+
+[更新步驟與方法](https://s40723107.github.io/cd2020/content/Fork%E5%88%86%E7%B5%84%E5%80%89%E5%84%B2%E4%B8%A6%E6%9B%B4%E6%96%B0python3.8.2.html)
+</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 協同產品設計實習
 
@@ -71,20 +220,6 @@
 
 
 </t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># Assignment1
-
-* Random grouping 亂數分組
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dYmrncwPiYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
