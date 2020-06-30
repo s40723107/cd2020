@@ -87,9 +87,6 @@
 <v t=".20200630211403.6"><vh>導入影片</vh>
 <v t=".20200630211403.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t=".20200630211403.8"><vh>導入影片</vh>
-<v t=".20200630211403.9"><vh>iframe 導入影片</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -235,7 +232,7 @@
 </t>
 <t tx=".20200630210357.2">### 四輪車分配工作(車殼)
 
-[車殼](https://s40723107.github.io/cd2020/content/%E5%9B%9B%E8%BC%AA%E8%BB%8A%E5%88%86%E9%85%8D%E5%B7%A5%E4%BD%9C(%E7%B9%AA%E8%A3%BD%E8%BB%8A%E6%AE%BC).html)
+[車殼成品](https://s40723107.github.io/cd2020/content/%E5%9B%9B%E8%BC%AA%E8%BB%8A%E5%88%86%E9%85%8D%E5%B7%A5%E4%BD%9C.html)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bB0e273alWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx=".20200630211403.1">&lt;section&gt;
 @others
@@ -277,23 +274,14 @@
 
 						
 </t>
-<t tx=".20200630211403.7">## IPV4
+<t tx=".20200630211403.7">## 分組共同完成的Assignment
 
-### https://s40723107.github.io/cd2020/content/IPV4.html</t>
-<t tx=".20200630211403.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+[分組Assignment1](https://s40723114.github.io/cd2020ag1/content/Assignment1.html)
 
 
-						
-</t>
-<t tx=".20200630211403.9">## IPV6
+[分組Assignment2](https://s40723114.github.io/cd2020ag1/content/Assignment%202.html)
 
-### https://s40723107.github.io/cd2020/content/IPV6.html
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xMAXSk4QAUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+[分組Assignment3](https://s40723114.github.io/cd2020ag1/content/Assignment%203.html)</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 協同產品設計實習
 
@@ -341,7 +329,7 @@
 心得:
 在文章中最喜歡的一個單元(合作是開放，誠實和無畏的)，在協同設計中需要的是合作來完成，而不是靠自己的力量去完成，更是需要去當一個好的聆聽者接納每個人的想法，不是一味的只想靠自己的想法完成，當個能夠聆聽他人想法的人更是協同設計必要的課程之一。
 
-網址 :https://s40723107.github.io/cd2020/content/TOPIC0.html</t>
+[翻譯網址](https://s40723107.github.io/cd2020/content/TOPIC0.html)</t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -571,7 +559,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624105057.7">## IPV4
 
-### https://s40723107.github.io/cd2020/content/IPV4.html</t>
+### [IPV4個人網站](https://s40723107.github.io/cd2020/content/IPV4.html)</t>
 <t tx="leo.20200624112134.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -583,7 +571,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624112134.2">## IPV6
 
-### https://s40723107.github.io/cd2020/content/IPV6.html
+### [IPV6個人網站](https://s40723107.github.io/cd2020/content/IPV6.html)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xMAXSk4QAUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
