@@ -59,6 +59,9 @@
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
+<v t=".20200630210357.1"><vh>導入影片</vh>
+<v t=".20200630210357.2"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 <v t="leo.20200624105057.1"><vh>Assignment1</vh>
 <v t="leo.20200624105057.2"><vh>Assignment3</vh>
@@ -72,6 +75,20 @@
 </v>
 <v t="leo.20200624112134.1"><vh>導入影片</vh>
 <v t="leo.20200624112134.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t=".20200630211403.1"><vh>直播</vh>
+<v t=".20200630211403.2"><vh>Assignment3</vh>
+<v t=".20200630211403.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t=".20200630211403.4"><vh>導入縮排程式碼</vh>
+<v t=".20200630211403.5"><vh>引用程式碼</vh></v>
+</v>
+<v t=".20200630211403.6"><vh>導入影片</vh>
+<v t=".20200630211403.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t=".20200630211403.8"><vh>導入影片</vh>
+<v t=".20200630211403.9"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -207,10 +224,80 @@
 
 [更新步驟與方法](https://s40723107.github.io/cd2020/content/Fork%E5%88%86%E7%B5%84%E5%80%89%E5%84%B2%E4%B8%A6%E6%9B%B4%E6%96%B0python3.8.2.html)
 </t>
+<t tx=".20200630210357.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630210357.2">### 四輪車分配工作(車殼)
+
+[車殼](https://s40723107.github.io/cd2020/content/%E5%9B%9B%E8%BC%AA%E8%BB%8A%E5%88%86%E9%85%8D%E5%B7%A5%E4%BD%9C(%E7%B9%AA%E8%A3%BD%E8%BB%8A%E6%AE%BC).html)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bB0e273alWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx=".20200630211403.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx=".20200630211403.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630211403.3">## 每周小組直播紀錄
+
+</t>
+<t tx=".20200630211403.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx=".20200630211403.5">### [小組會議紀錄](https://s40723107.github.io/cd2020/content/%E7%9B%B4%E6%92%AD%E6%9C%83%E8%AD%B0%E8%A8%8E%E8%AB%96.html)</t>
+<t tx=".20200630211403.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630211403.7">## IPV4
+
+### https://s40723107.github.io/cd2020/content/IPV4.html</t>
+<t tx=".20200630211403.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200630211403.9">## IPV6
+
+### https://s40723107.github.io/cd2020/content/IPV6.html
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xMAXSk4QAUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 協同產品設計實習
 
-### 40723107
+### 40723107 (王晨祐)
 
 [Repository](https://github.com/s40723107/cd2020)
 
